@@ -1,0 +1,14 @@
+{
+  "user_id": "user_2629fda3",
+  "name": "sid",
+  "income": 77770.0,
+  "city_tier": 1,
+  "expenses": {
+    "Housing": 55550.0,
+    "Food": 660.04,
+    "Transportation": 0.0,
+    "Utilities": 0.0,
+    "Entertainment": 0.0
+  },
+  "goals": []
+}

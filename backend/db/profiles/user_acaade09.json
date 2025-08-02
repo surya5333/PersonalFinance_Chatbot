@@ -1,0 +1,14 @@
+{
+  "user_id": "user_acaade09",
+  "name": "sid",
+  "income": 5666659.97,
+  "city_tier": 1,
+  "expenses": {
+    "Housing": 4440.0,
+    "Food": 0.0,
+    "Transportation": 0.0,
+    "Utilities": 0.0,
+    "Entertainment": 0.0
+  },
+  "goals": []
+}

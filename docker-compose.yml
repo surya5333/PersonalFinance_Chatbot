@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  finac:
+    build: .
+    container_name: personal-finance-chatbot
+    ports:
+      - "8000:8000"  # Backend API
+      - "8501:8501"  # Streamlit frontend
+    volumes:
+      - ./.env:/app/.env  # Mount .env file
+      - ./backend/db:/app/backend/db  # Persist database
+    environment:
+      - BACKEND_HOST=0.0.0.0
+      - FRONTEND_PORT=8501
+    restart: unless-stopped

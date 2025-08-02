@@ -1,0 +1,14 @@
+{
+  "user_id": "user_420b7b6f",
+  "name": "mustakk",
+  "income": 500000.0,
+  "city_tier": 1,
+  "expenses": {
+    "Housing": 4000.0,
+    "Food": 1000.0,
+    "Transportation": 0.0,
+    "Utilities": 0.0,
+    "Entertainment": 0.0
+  },
+  "goals": []
+}
